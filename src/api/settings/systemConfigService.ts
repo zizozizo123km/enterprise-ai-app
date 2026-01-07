@@ -1,0 +1,1 @@
+// Global ERP configuration settings
