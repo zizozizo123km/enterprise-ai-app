@@ -1,0 +1,1 @@
+// Template for displaying detailed entity information
