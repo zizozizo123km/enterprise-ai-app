@@ -1,0 +1,1 @@
+// Standard page header with title and action buttons
