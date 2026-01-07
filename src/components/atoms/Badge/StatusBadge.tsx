@@ -1,0 +1,1 @@
+// Badge for displaying status (e.g., Paid, Pending)
