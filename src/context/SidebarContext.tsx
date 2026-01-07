@@ -1,0 +1,1 @@
+// Context for sidebar open/close state
