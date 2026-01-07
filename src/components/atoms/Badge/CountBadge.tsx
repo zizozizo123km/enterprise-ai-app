@@ -1,0 +1,1 @@
+// Badge for displaying counts (e.g., notifications)
