@@ -1,0 +1,1 @@
+// Wrapper for displaying charts with title/controls
