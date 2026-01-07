@@ -1,0 +1,1 @@
+// Grid-based template optimized for widgets
