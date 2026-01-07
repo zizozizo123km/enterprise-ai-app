@@ -1,0 +1,1 @@
+// Single toast notification component
