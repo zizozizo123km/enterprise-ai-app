@@ -1,0 +1,1 @@
+// Full collapsible sidebar navigation structure
