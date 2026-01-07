@@ -1,0 +1,1 @@
+// Legend for chart data
