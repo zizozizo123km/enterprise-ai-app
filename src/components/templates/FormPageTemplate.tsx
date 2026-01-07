@@ -1,0 +1,1 @@
+// Template for pages dominated by a single large form
