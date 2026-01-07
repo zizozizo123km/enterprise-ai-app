@@ -1,0 +1,1 @@
+// Header bar with logo, search, and user dropdown
