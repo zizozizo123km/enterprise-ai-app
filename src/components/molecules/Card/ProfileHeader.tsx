@@ -1,0 +1,1 @@
+// Card displaying user name and avatar
