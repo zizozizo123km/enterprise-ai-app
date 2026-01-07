@@ -1,0 +1,1 @@
+// Button containing only an icon
