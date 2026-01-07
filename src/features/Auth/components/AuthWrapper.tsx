@@ -1,0 +1,1 @@
+// Wrapper handling redirection based on auth state
