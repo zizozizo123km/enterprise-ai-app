@@ -1,0 +1,1 @@
+// Displays current active employee count
