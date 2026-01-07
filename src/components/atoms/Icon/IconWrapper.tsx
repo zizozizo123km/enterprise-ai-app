@@ -1,0 +1,1 @@
+// Base component for all icons
