@@ -1,0 +1,1 @@
+// Settings gear icon
