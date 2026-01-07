@@ -1,0 +1,1 @@
+// Hook to check current user permissions
