@@ -1,0 +1,1 @@
+// Single clickable item in the sidebar
