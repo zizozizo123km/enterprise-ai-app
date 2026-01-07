@@ -1,0 +1,1 @@
+// Standard ERP layout (Sidebar + Navbar + Content)
