@@ -1,0 +1,1 @@
+// Key-value pair display for details view
