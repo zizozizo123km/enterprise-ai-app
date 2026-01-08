@@ -1,1 +1,1 @@
-// Hook to access authentication state and actions
+export const useAuth = () => useContext(AuthContext);
