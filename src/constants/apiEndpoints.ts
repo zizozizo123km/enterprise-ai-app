@@ -1,1 +1,1 @@
-// Centralized API endpoint definitions
+export const API_ENDPOINTS = { AUTH: '/api/v1/auth', ... };
