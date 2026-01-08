@@ -1,0 +1,1 @@
+export const APP_CONFIG = { MAX_RETRIES: 3, ... };
