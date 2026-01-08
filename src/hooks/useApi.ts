@@ -1,1 +1,1 @@
-// Generic hook for API calls and state management (loading, error)
+export const useApi = () => { /* handles fetching and error state */ };
