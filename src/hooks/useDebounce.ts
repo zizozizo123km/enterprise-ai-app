@@ -1,1 +1,1 @@
-// Hook for debouncing input values
+export const useDebounce = (value, delay) => { /* debounce logic */ };
