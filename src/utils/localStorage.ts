@@ -1,0 +1,1 @@
+export const setItem = (key: string, value: any) => ...;
