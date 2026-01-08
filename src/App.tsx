@@ -1,1 +1,1 @@
-// Main application router and context provider setup
+import { Router } from './router/Router';
