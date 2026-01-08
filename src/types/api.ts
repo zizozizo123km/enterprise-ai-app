@@ -1,1 +1,1 @@
-// API response and request structures
+export interface ApiResponse<T> { data: T; status: number; }
